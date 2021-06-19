@@ -1,0 +1,7 @@
+C:\Users\Omer\source\repos\MukemmelSayilar\MukemmelSayilar\bin\Debug\MukemmelSayilar.exe.config
+C:\Users\Omer\source\repos\MukemmelSayilar\MukemmelSayilar\bin\Debug\MukemmelSayilar.exe
+C:\Users\Omer\source\repos\MukemmelSayilar\MukemmelSayilar\bin\Debug\MukemmelSayilar.pdb
+C:\Users\Omer\source\repos\MukemmelSayilar\MukemmelSayilar\obj\Debug\MukemmelSayilar.csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\MukemmelSayilar\MukemmelSayilar\obj\Debug\MukemmelSayilar.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\MukemmelSayilar\MukemmelSayilar\obj\Debug\MukemmelSayilar.exe
+C:\Users\Omer\source\repos\MukemmelSayilar\MukemmelSayilar\obj\Debug\MukemmelSayilar.pdb
